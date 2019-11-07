@@ -1,0 +1,1 @@
+In this project I've created a custom calculator app that can performe different simple computation(addition, substraction, multiplication and division) based on double numbers
